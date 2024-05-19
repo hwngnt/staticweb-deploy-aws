@@ -1,0 +1,1 @@
+# staticweb-deploy-aws
